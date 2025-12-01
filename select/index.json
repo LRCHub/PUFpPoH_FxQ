@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Baddie",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-01T09:12:48.172980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "MK xyz",
+      "has_synced": true,
+      "path": "select/01_Baddie_MK_xyz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TIKTOK BADDIE",
+      "artist": "Katja Krasavice",
+      "has_synced": true,
+      "path": "select/02_TIKTOK_BADDIE_Katja_Krasavice.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baddie Betty Boop",
+      "artist": "Sleepy Hallow feat. Fivio Foreign",
+      "has_synced": true,
+      "path": "select/03_Baddie_Betty_Boop_Sleepy_Hallow_feat._Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baddie Betty Boop",
+      "artist": "Sleepy Hallow",
+      "has_synced": true,
+      "path": "select/04_Baddie_Betty_Boop_Sleepy_Hallow.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "IVE",
+      "has_synced": true,
+      "path": "select/05_Baddie_IVE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "CRAVITY",
+      "has_synced": true,
+      "path": "select/06_Baddie_CRAVITY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "Kalin White",
+      "has_synced": false,
+      "path": "select/07_Baddie_Kalin_White.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "Yemi Alade",
+      "has_synced": true,
+      "path": "select/08_Baddie_Yemi_Alade.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Baddie Betty Boop",
+      "artist": "Sleepy Hallow & Fivio Foreign",
+      "has_synced": true,
+      "path": "select/09_Baddie_Betty_Boop_Sleepy_Hallow_&_Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "IVE (아이브)",
+      "has_synced": true,
+      "path": "select/10_Baddie_IVE_(아이브).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Baddie On My Wish List",
+      "artist": "Fivio Foreign",
+      "has_synced": true,
+      "path": "select/11_Baddie_On_My_Wish_List_Fivio_Foreign.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "VIENI DALLA BADDIE - interlude",
+      "artist": "ANNA",
+      "has_synced": false,
+      "path": "select/12_VIENI_DALLA_BADDIE_-_interlude_ANNA.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Own Brand (Baddie)",
+      "artist": "Dréya Mac",
+      "has_synced": false,
+      "path": "select/13_Own_Brand_(Baddie)_Dréya_Mac.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "Emily Vaughn",
+      "has_synced": true,
+      "path": "select/14_Baddie_Emily_Vaughn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Baddie",
+      "artist": "Glocky",
+      "has_synced": true,
+      "path": "select/15_Baddie_Glocky.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baddie Betty Boop",
+      "artist": "Sleepy Hallow & Fivio Foreign",
+      "has_synced": false,
+      "path": "select/pl_01_Baddie_Betty_Boop_Sleepy_Hallow_&_Fivio_Foreign.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Baddie",
+      "artist": "Sleepy Hallow & Fivio Foreign",
+      "has_synced": false,
+      "path": "select/pl_02_Baddie_Sleepy_Hallow_&_Fivio_Foreign.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Baddie",
+      "artist": "Sleepy Hallow & Fivio Foreign",
+      "has_synced": false,
+      "path": "select/pl_03_Baddie_Sleepy_Hallow_&_Fivio_Foreign.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Baddie",
+      "artist": "Sleepy Hallow & Fivio Foreign",
+      "has_synced": false,
+      "path": "select/pl_04_Baddie_Sleepy_Hallow_&_Fivio_Foreign.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Baddie",
+      "artist": "Sleepy Hallow & Fivio Foreign",
+      "has_synced": false,
+      "path": "select/pl_05_Baddie_Sleepy_Hallow_&_Fivio_Foreign.txt"
+    }
+  ]
+}
